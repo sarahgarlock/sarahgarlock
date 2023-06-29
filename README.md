@@ -19,7 +19,7 @@ Current student at Turing School for Software and Design. Mainly focused on Ruby
 - Full Stack
 
 #### Contact Me
-[LinkedIn](https://www.linkedin.com/in/sarah-garlock-795855195/)
+[LinkedIn](https://www.linkedin.com/in/sarah-garlock-795855195/) <br>
 [Email](garlock.sarah10@gmail.com)
 
 
