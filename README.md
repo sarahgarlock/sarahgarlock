@@ -11,6 +11,8 @@ Current student at Turing School for Software and Design. Mainly focused on Ruby
 - HTML/CSS
 - Test Driven Development
 - Object Oriented Programming
+- GraphQL
+- Render
 
 ### Desire to Learn
 - Python
