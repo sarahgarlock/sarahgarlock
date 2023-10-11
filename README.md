@@ -1,6 +1,6 @@
 # Sarah Garlock
 
-Current student at Turing School for Software and Design. Mainly focused on Ruby, Rails and API Consumption. I'm enjoying the process of understanding the workings of applications and excited to enter the tech field.
+Graduate of Turing School for Software and Design. Mainly focused on Ruby, Rails and API Consumption. I'm enjoying the process of understanding the workings of applications and excited to enter the tech field.
 
 ### Currenty Learning
 - Ruby
